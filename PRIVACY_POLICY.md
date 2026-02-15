@@ -31,7 +31,6 @@ The App may request permissions for features you use:
 - **Photo Library**: to select or save images.
 - **Bluetooth**: to discover and connect to receipt printers.
 - **Local Network**: to find printers on the same network.
-- **Microphone**: required by some devices for audio playback permissions.
 
 You can deny permissions, but related features may not function.
 
@@ -87,10 +86,13 @@ We may update this policy from time to time. We will update the "Last updated" d
 ## 13. Contact Us
 If you have questions or requests, contact us at:
 
-Email: support@spicehut.com
+Email: syed.spicehut@gmail.com
+
+Address: 642 Panatella Blvd NW Calgary AB
+
+Phone: +1(778) 963-0444
 
 ---
 
 Notes for publication:
-- Replace the email with your real support email.
-- Add your company address or website if available.
+ - Add your website if available.
